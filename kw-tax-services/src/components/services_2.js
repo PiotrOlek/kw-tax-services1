@@ -48,10 +48,6 @@ const About = () => {
               <li className="gradient-text uppercase">Doradztwo z obszaru zarządzania zasobami ludzkimi</li>
             </div>
             <div className="flex gap-x-8 items-center">
-              <button className="btn btn-lg">Cennik</button>
-              <a href="#" className="text-gradient btn-link">
-                Kontakt
-              </a>
             </div>
           </motion.div>
         </div>

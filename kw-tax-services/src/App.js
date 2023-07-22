@@ -1,6 +1,6 @@
 import React from 'react';
 // components
-import Services1 from './components/services_1';
+import Services1 from './components/services_2';
 
 const App = () => {
   return (
