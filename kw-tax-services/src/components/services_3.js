@@ -27,7 +27,7 @@ const About = () => {
           >
             <div className="flex-1">
               <h3 className="h2 mb-1 gradient-text">
-              USŁUGI KADROWO - PŁACOWE
+              ZAKŁADANIE FIRMY
               </h3>
               <p className="mb-1">
               Wybór formy działalności oraz decyzje podejmowane podczas zakładania nowej firmy to pierwszy i zarazem najważniejszy krok rozpoczynający przedsiębiorczą działalność, dlatego warto zadbać o wszystkie szczegóły i uniknąć błędów, które mogą w przyszłości przysporzyć nieprzyjemności.
@@ -47,12 +47,6 @@ const About = () => {
               <li className="gradient-text uppercase">Spółka komandytowa</li>
               <li className="gradient-text uppercase">Spółka komandytowo - akcyjna</li>
               <li className="gradient-text uppercase">Prosta spółka akcyjna</li>
-            </div>
-            <div className="flex gap-x-8 items-center">
-              <button className="btn btn-lg">Cennik</button>
-              <a href="#" className="text-gradient btn-link">
-                Kontakt
-              </a>
             </div>
           </motion.div>
         </div>
